@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(9, 22, 78);
+    background-color: rgb(105, 4, 0);
 }
 .menuBtn{
     width: 100%;
@@ -25,4 +25,12 @@ body{
     padding-left: 6%;
     padding-right: 6%;
     text-align: center;
+}
+//.indirBtn{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40%;
+    background-color: #dd0005;
+    padding: 12px 36px;
+    margin-left: 28%;
+    opacity: 16px;
 }
