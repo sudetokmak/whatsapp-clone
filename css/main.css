@@ -2,13 +2,14 @@ body{
     background-color: #128c7e;
 }
 .menuBtn{
-    width: 100%;
+    width: 50%;
     height: 100%;
+    padding-top: 60%;
 }
 .logo{
-    width: 90%;
-    height: 90%;
-    padding-top: 5%;
+    width: 49%;
+    height: 101%;
+    padding-top: 16%;
     padding-left: 10%;
     text-align: center;
 }
@@ -24,6 +25,7 @@ body{
     padding-top: 5%;
     padding-left: 6%;
     padding-right: 6%;
+    padding-bottom: 6%;
     text-align: center;
 }
 //.indirBtn{
@@ -33,4 +35,10 @@ body{
     padding: 12px 36px;
     margin-left: 28%;
     opacity: 16px;
+}
+.wpScreenshot{
+    padding-top: 16%;
+    width: 86%;
+    height: 70%;
+    padding-left: 17%;
 }
