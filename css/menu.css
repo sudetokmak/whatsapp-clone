@@ -1,0 +1,54 @@
+body{
+    background-color: #075e54;
+}
+.top{
+    padding-top: 6%;
+}
+.logo{
+    padding-left: 50%;
+}
+.btn-close{
+    padding-top: 26%;
+}
+.indirBtn{
+    padding-left: 16%;
+    color: white;
+    padding-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 97%;
+}
+.ozellikBtn{
+    padding-left: 16%;
+    color: white;
+    padding-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 97%;
+}
+.guvenlikBtn{
+    padding-left: 16%;
+    color: white;
+    padding-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 97%;
+}
+.yardimBtn{
+    padding-left: 16%;
+    color: white;
+    padding-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 97%;
+}
+.iletisimBtn{
+    padding-left: 16%;
+    color: white;
+    padding-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 97%;
+}
+.line{
+    color: #38c0b0;
+    padding-left: 6%;
+    padding-right: 3%;
+    padding-bottom: 0,5%;
+    text-align: center;
+}
