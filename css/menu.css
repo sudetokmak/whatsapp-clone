@@ -52,3 +52,8 @@ body{
     padding-bottom: 0,5%;
     text-align: center;
 }
+.form-select{
+    background-color: #075e54;
+    width: 51%;
+    color: white;
+}
