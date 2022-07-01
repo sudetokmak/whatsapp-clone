@@ -49,10 +49,26 @@ body{
     padding-top: 6%;
     text-align: center;
 }
- .yaziboyut2{
+.yaziboyut2{
     color: black;
     padding-top: 5%;
     padding-left: 6%;
     padding-right: 6%;
     text-align: center;
  }
+.uctanUcaSifreBaslik{
+    text-align: center;
+    padding-top: 6%;
+    color: #5E5E5E;
+}
+.herZamanGuvenliBslk{
+    text-align: center;
+}
+#yaziboyut2{
+    color: black;
+    padding-top: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 5%;
+    text-align: center;
+}
