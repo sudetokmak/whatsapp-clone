@@ -72,3 +72,10 @@ body{
     padding-bottom: 5%;
     text-align: center;
 }
+.ozellikKesifBtn{
+    background-color: white;
+}
+.ozellikBtn{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
