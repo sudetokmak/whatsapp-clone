@@ -1,0 +1,18 @@
+body{
+    background-color: #FCF2C6;
+}
+.theTop{
+    background-color: #128c7e;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+.font{
+    padding-top: 1%;
+    color: white;
+}
+.menuBtn{
+    width: 55%;
+    height: 66%;
+    padding-top: 6%;
+}
